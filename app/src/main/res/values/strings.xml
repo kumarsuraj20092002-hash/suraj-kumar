@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Volt Dash</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_play">Play</string>
+    <string name="nav_design">Design</string>
+    <string name="nav_stages">Stages</string>
+    <string name="hud_dash_ready">DASH READY</string>
+    <string name="hud_dash_spent">AIR SPENT</string>
+    <string name="hud_shards_label">SHARDS</string>
+    <string name="hud_timer_label">TIME</string>
+    <string name="hud_combo_prefix">FLOW x</string>
+    <string name="ctrl_left">LEFT</string>
+    <string name="ctrl_right">RIGHT</string>
+    <string name="ctrl_jump">JUMP</string>
+    <string name="ctrl_dash">DASH</string>
+    <string name="stage_clear_title">STAGE CLEAR!</string>
+    <string name="stage_clear_next">NEXT STAGE</string>
+    <string name="stage_clear_replay">RUN AGAIN</string>
+    <string name="stage_clear_design">VIEW DESIGN</string>
+    <string name="pause_title">SYSTEM PAUSED</string>
+    <string name="pause_resume">RESUME RUN</string>
+    <string name="pause_restart">RESTART STAGE</string>
+    <string name="design_header_title">PLATFORMER DESIGN BIBLE</string>
+    <string name="design_header_subtitle">16-Bit Pixel Assets, Physics Feel &amp; Mobile Architecture</string>
+</resources>
